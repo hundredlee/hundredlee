@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2033%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -38,13 +38,13 @@ Sunday                   64 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -60,5 +60,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2023 18:35:31 UTC
+ Last Updated on 12/10/2023 18:35:14 UTC
 <!--END_SECTION:waka-->
