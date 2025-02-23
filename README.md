@@ -5,8 +5,6 @@
 
 > 📦 19.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 59 Public Repositories 
@@ -38,14 +36,13 @@ Sunday                   47 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     4 mins              █████████████████████░░░░   83.35 % 
-Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -61,5 +58,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2025 18:38:55 UTC
+ Last Updated on 23/02/2025 18:39:06 UTC
 <!--END_SECTION:waka-->
