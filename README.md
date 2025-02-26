@@ -1,13 +1,15 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C404%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C405%20hrs%2041%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 19.4 kB Used in GitHub's Storage 
  > 
+> 🏆 9 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 60 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -36,13 +38,15 @@ Sunday                   47 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 44 mins             █████████████████░░░░░░░░   66.11 % 
+Go                       15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -58,5 +62,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2025 18:42:54 UTC
+ Last Updated on 26/02/2025 18:43:06 UTC
 <!--END_SECTION:waka-->
