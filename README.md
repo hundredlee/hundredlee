@@ -36,14 +36,13 @@ Sunday                   47 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       14 mins             ███████████████████░░░░░░   75.82 % 
-JSON                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -59,5 +58,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2025 18:44:51 UTC
+ Last Updated on 07/05/2025 18:45:30 UTC
 <!--END_SECTION:waka-->
